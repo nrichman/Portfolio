@@ -5,7 +5,7 @@
  */
 
 body {
-  background: blue;
+  background: #74AFAD;
   padding-top: 54px;
   padding-bottom: 120px
 }
@@ -63,11 +63,11 @@ body {
          .portfolio-item .portfolio-link .caption .caption-content h4 {
           margin: 0; }
 
-#portfolio * {
+portfolio * {
   z-index: 2; }
 
 @media (min-width: 767px) {
-  #portfolio .portfolio-item {
+  .portfolio-item {
     margin: 0 0 30px; } }
 	
 footer {
@@ -79,12 +79,12 @@ footer {
     margin-bottom: 30px; }
   footer .footer-above {
     padding-top: 0px;
-    background-color: #2C3E50; }
+    background-color: #558C89; }
   footer .footer-col {
     margin-bottom: 0px; }
   footer .footer-below {
     padding: 0px 0;
-    background-color: #2c3e50; }
+    background-color: #558C89; }
 	
 .btn-social {
   font-size: 20px;
@@ -94,3 +94,17 @@ footer {
   text-align: center;
   border: 2px solid white;
   border-radius: 100%; }
+
+.navbar
+{
+	background-color: #558C89;
+	border-color: #558C89;
+}
+  
+.navbar-center
+{
+    width: 100%;
+    left: 0;
+    text-align: center;
+	height: 100%;
+}
