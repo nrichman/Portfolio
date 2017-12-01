@@ -119,3 +119,7 @@ footer {
     min-height: calc(100vh - 20px);
   }
 }
+
+.carousel-inner img {
+  margin: auto;
+}
